@@ -52,7 +52,7 @@ This project was built primarily to brush up on:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/angadthakare18/QuickPosts-MERN
 cd QuickPosts-MERN
 ```
 
